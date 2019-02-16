@@ -100,11 +100,11 @@ a:focus {
   position: relative;
   overflow: hidden;
 }
-
+/*
 .wow {
   visibility: hidden;
 }
-
+*/
 .fi:before {
   margin: 0;
 }
